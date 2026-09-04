@@ -90,7 +90,7 @@ p#result {
     display: flex;
     justify-content: center;
     align-items: center;
-    /*transition: color 1s linear;*/
+    white-space: nowrap;
 }
 
 @media (max-width: 600px) {
@@ -101,5 +101,11 @@ p#result {
     .app {
         width: 80%;
         padding: 10px 30px;
+    }
+
+    p#result {
+        font-size: 0.7rem;
+        font-weight: bold;
+        white-space: wrap;
     }
 }
