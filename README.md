@@ -34,6 +34,9 @@ This project was built to practice:
 You can try it on: 
 [Age Calculator](https://Sohaib-frontend1.github.io/Pro-Age-Calc)
 
+### Screenshot
+![App Screenshot](./aScreenshot.jpg)
+
 ## License
 
 This project is licensed under the MIT License.
