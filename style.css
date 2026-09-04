@@ -76,7 +76,7 @@ button:hover {
 
 p#result {
     color: var(--danger);
-    height: 65px;
+    height: 35px;
     background-image: linear-gradient(
         45deg,
         #0c3794,
