@@ -36,4 +36,4 @@ You can try it on:
 
 ## License
 
-This repo is licensed under MIT License
+This project is licensed under the MIT License.
